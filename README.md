@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/lanzoinc" target="blank"><img src="https://img.shields.io/twitter/follow/lanzoinc?logo=twitter&style=for-the-badge" alt="lanzoinc" /></a> </p>
 
-- 👨‍💻 Visit my website [lanzoj.github.io](https://lanzoj.github.io)
+- 👨‍💻 Visit my website [olanzoo.github.io](https://olanzoo.github.io)
 
 - 📫 How to reach me **lanzo.exe@gmail.com**
 
